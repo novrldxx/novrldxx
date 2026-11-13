@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "login": "timkaswag",
+  "seed": "#332E5E",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "//",
+    "name": "novrldx ",
+    "subtitle": "Building web interfaces & exploring code. ",
+    "typing": true,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Kharkiv"
+      },
+      {
+        "icon": "brand:cplusplus",
+        "label": "C++ "
+      },
+      {
+        "icon": "brand:python",
+        "label": "Python "
+      },
+      {
+        "icon": "terminal",
+        "label": "SQL"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer & Photoshop designer "
+      },
+      {
+        "icon": "code",
+        "label": "Learning C++, Python & SQL"
+      },
+      {
+        "icon": "palette",
+        "label": "Creating graphics & digital art "
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:adminer",
+            "label": "SQL"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Photoshop"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/novrldx?cplk=eWRsOTNkbDF4bGk3"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/novrldx"
+      },
+      {
+        "icon": "brand:gitlab",
+        "url": "https://gitlab.com/timkaswag"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/novrldx"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": []
+  }
+}
