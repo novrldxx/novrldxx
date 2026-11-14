@@ -21,3 +21,9 @@ jobs:
       - uses: metawka/expressive-profile@v1
         with:
           token: ${{ secrets.PROFILE_TOKEN || github.token }}
+
+      - uses: metawka/expressive-profile@v1
+        with:
+          token: ${{ secrets.PROFILE_TOKEN || github.token }}
+          user: novrldxx
+          
